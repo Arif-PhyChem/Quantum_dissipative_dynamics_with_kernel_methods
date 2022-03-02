@@ -1,5 +1,5 @@
-# Speeding up quantum dissipative dynamics of open systems with kernel methods
-# New J. Phys. 23 (2021) 113019 https://doi.org/10.1088/1367-2630/ac3261
+## Speeding up quantum dissipative dynamics of open systems with kernel methods
+## New J. Phys. 23 (2021) 113019, https://doi.org/10.1088/1367-2630/ac3261
 
 Prerequisite steps for ML-dynamics with the KRR model
 
